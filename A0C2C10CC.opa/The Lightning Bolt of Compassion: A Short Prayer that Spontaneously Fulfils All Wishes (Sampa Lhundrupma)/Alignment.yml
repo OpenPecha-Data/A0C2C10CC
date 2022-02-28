@@ -1,0 +1,40 @@
+segment_sources:
+  P390C3020:
+    type: origin_type
+    relation: translation
+    language: en
+  P5224B644:
+    type: origin_type
+    relation: translation
+    language: de
+  P99D2C0E4:
+    type: origin_type
+    relation: translation
+    language: es
+  P3BB109E1:
+    type: origin_type
+    relation: translation
+    language: fr
+  P16A78071:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  5f28c8e8d9e3433580c38ccf49d5587f:
+    P390C3020: 1e947aa7a2114b76bb9877904447295d
+    P5224B644: e233a16c6e72478a884ca7fde9927c44
+    P99D2C0E4: f2c9046ccb0440c3892ccde96c5a4589
+    P3BB109E1: 937676f602b447bc85a16cff1cf6a3ae
+    P16A78071: 1ed083e2fe3b48818a13647776376d3f
+  6482d6cb7ea240cb9b566b0a007caa8a:
+    P390C3020: 11eda068c7e84791bdfe2c62bd6abb18
+    P5224B644: 43ebc76c40004ae99ec76ac2fa27681a
+    P99D2C0E4: dcba87259e6f4ac794dd2a8cdbd7e324
+    P3BB109E1: 2bf4581266f049ea9cc41275025c155e
+    P16A78071: 1940fd529c544880874bda0cf57fa107
+  c3599e737f624ea48a87307d0fcb2a2e:
+    P390C3020: 2ca6596c0a48461f96029f543964a8b4
+    P5224B644: 414edf48c2e748a59f5dbd74fd4858f2
+    P99D2C0E4: 06380d02baa34229bb0e0663bb6ddced
+    P3BB109E1: 5d989d22b8694d1fa49369fec5bf6601
+    P16A78071: 06e9419825ac4863b88ccca89f21e475
